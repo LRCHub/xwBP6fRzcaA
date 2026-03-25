@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "永遠ラビリンス",
+  "base_artist": "悠木 碧",
+  "createdAt": "2026-03-25T16:17:53.687823Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠ラビリンス (24bit/96kHz)",
+      "artist": "悠木碧",
+      "has_synced": true,
+      "path": "select/01_永遠ラビリンス_(24bit_96kHz)_悠木碧.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠ラビリンス",
+      "artist": "悠木 碧",
+      "has_synced": false,
+      "path": "select/pl_01_永遠ラビリンス_悠木_碧.txt"
+    }
+  ]
+}
